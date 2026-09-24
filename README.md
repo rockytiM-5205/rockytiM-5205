@@ -1,25 +1,27 @@
-Hi, I'm Alien 👋
+<div align="center">ALIEN_R
 
 Software Engineer · Backend Developer · Builder
 
-I'm a software engineer focused on backend development and building practical software products.
-
-I enjoy taking an idea, understanding the problem behind it, and turning it into something people can actually use.
-
-My main focus is currently Python, Django, APIs, databases, and software engineering fundamentals.
-
----
+<p>
+  <a href="https://github.com/rockytiM-5205">
+    <img src="https://img.shields.io/github/followers/rockytiM-5205?style=flat&label=Followers" />
+  </a>
+  <a href="https://github.com/rockytiM-5205">
+    <img src="https://komarev.com/ghpvc/?username=rockytiM-5205&style=flat&label=Profile%20Views" />
+  </a>
+</p><p>
+  <i>Building practical software, learning how systems work, and getting better every day.</i>
+</p></div>---
 
 About Me
 
-Backend-focused
-Product-minded
-Always learning
-Currently improving my engineering depth
+I'm a software engineer focused primarily on backend development and building real-world products.
 
-I started my programming journey with Python and gradually moved into web development, APIs, databases, Git, deployment, and production applications.
+I started with Python and gradually moved into web development, REST APIs, databases, Git, deployment, and production applications.
 
-I'm especially interested in understanding how systems work, not just learning how to use a framework.
+I enjoy taking an idea, understanding the problem behind it, and turning it into software that people can actually use.
+
+I'm currently focused on becoming a stronger engineer rather than simply collecting technologies.
 
 ---
 
@@ -27,27 +29,19 @@ Tech Stack
 
 Languages
 
-Python · TypeScript · JavaScript · Rust
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust" />
+</p>Backend & Database
 
-Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgres" />
+</p>Tools & Deployment
 
-Django · Django REST Framework · REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,netlify,render" />
+</p>---
 
-Database
-
-PostgreSQL
-
-Frontend
-
-HTML · CSS · JavaScript · TypeScript
-
-Tools & Infrastructure
-
-Git · GitHub · Postman · Docker · Linux · Render · Netlify · PythonAnywhere
-
----
-
-What I'm Currently Working On
+What I'm Learning
 
 I'm currently going deeper into:
 
@@ -61,9 +55,8 @@ I'm currently going deeper into:
 - System design
 - Debugging and problem solving
 
-My goal isn't to collect technologies.
-
-It's to become better at engineering software.
+«I don't want to just know how to use a technology.
+I want to understand what's happening underneath it.»
 
 ---
 
@@ -73,35 +66,37 @@ StudentPal
 
 A student-focused platform designed around real student workflows in the Faculty of Computing at AAUA.
 
-The project focuses on making access to academic resources and student activities more organized and accessible.
+The goal is simple: understand the problems students face and build software that makes those workflows easier.
 
-Built with:
+Stack
 
-"Django" "Django REST Framework" "PostgreSQL" "Netlify" "Render"
+"Django" · "Django REST Framework" · "PostgreSQL" · "Netlify" · "Render"
 
 ---
 
-How I Approach Development
+How I Build
 
-Understand the problem
-        ↓
-Design the solution
-        ↓
+Problem
+   ↓
+Understand
+   ↓
+Design
+   ↓
 Build
-        ↓
+   ↓
 Test
-        ↓
+   ↓
 Debug
-        ↓
+   ↓
 Deploy
-        ↓
-Get feedback
-        ↓
+   ↓
+Feedback
+   ↓
 Improve
 
-I believe good engineering is more than making something work.
+For me, software engineering isn't just about getting something to work.
 
-It's understanding why it works, how it can fail, and how it can be improved.
+It's about understanding why it works, how it can fail, and how it can be improved.
 
 ---
 
@@ -119,21 +114,13 @@ Engineering Principles
 
 ---
 
-GitHub Activity
+GitHub
 
-Most of the repositories here are projects, experiments, and things I've built while learning.
-
-Some are polished.
-
-Some are works in progress.
-
-All of them represent part of the journey.
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rockytiM-5205&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rockytiM-5205&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" /><img src="https://streak-stats.demolab.com?user=rockytiM-5205&hide_border=true&theme=transparent" height="170" /></div><br><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rockytiM-5205&theme=github-compact&hide_border=true&area=true" width="95%" /></div>---
 
 Current Direction
 
-I'm working toward becoming the kind of engineer who can open an unfamiliar codebase and confidently say:
+I'm working toward becoming the kind of engineer who can open an unfamiliar codebase and say:
 
 «"Give me some time. I'll figure it out."»
 
@@ -143,6 +130,10 @@ Because I know how to learn, reason, debug, and build.
 
 ---
 
-Keep building. Keep learning.
+<div align="center">Build. Learn. Ship. Repeat.
 
-— Alien
+<br>ALIEN_R
+
+<i>Software Engineer in progress.</i>
+
+</div>

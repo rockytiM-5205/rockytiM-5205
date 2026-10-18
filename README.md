@@ -1,139 +1,82 @@
-<div align="center">ALIEN_R
+# Hi there, I'm a Software Developer 👋
 
-Software Engineer · Backend Developer · Builder
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p>
-  <a href="https://github.com/rockytiM-5205">
-    <img src="https://img.shields.io/github/followers/rockytiM-5205?style=flat&label=Followers" />
-  </a>
-  <a href="https://github.com/rockytiM-5205">
-    <img src="https://komarev.com/ghpvc/?username=rockytiM-5205&style=flat&label=Profile%20Views" />
-  </a>
-</p><p>
-  <i>Building practical software, learning how systems work, and getting better every day.</i>
-</p></div>---
+## Software Developer | Product Builder 🚀
 
-About Me
+I'm a software developer from Nigeria who enjoys turning ideas into practical digital products. I'm especially interested in building tools that solve everyday problems for students, communities, and businesses.
 
-I'm a software engineer focused primarily on backend development and building real-world products.
-
-I started with Python and gradually moved into web development, REST APIs, databases, Git, deployment, and production applications.
-
-I enjoy taking an idea, understanding the problem behind it, and turning it into software that people can actually use.
-
-I'm currently focused on becoming a stronger engineer rather than simply collecting technologies.
+- 💻 Building and learning through real-world software projects
+- 🐍 Working with Python and backend/API development
+- 🌐 Exploring modern web development
+- 🔐 Interested in secure, reliable, and maintainable software
+- 🤝 Always open to learning, collaboration, and useful feedback
 
 ---
 
-Tech Stack
+## About Me
 
-Languages
+- 🇳🇬 Based in Nigeria
+- 🎓 Software Engineering student
+- 🛠️ I learn by designing, building, testing, and improving projects
+- 🎯 Goal: build useful software products that make a real difference
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust" />
-</p>Backend & Database
+## What I'm Building
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,postgres" />
-</p>Tools & Deployment
+### 🚲 Camply
+A campus mobility and errand-help platform designed around the needs of university students.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,netlify,render" />
-</p>---
+### 🌍 Project Akungba Explorer
+A digital exploration project focused on Akungba-Akoko, Ondo State, combining geographic information with an interactive 3D experience.
 
-What I'm Learning
+### ⚙️ API-Driven Applications
+Exploring how to build practical backend systems, including secure APIs, user permissions, and business workflows.
 
-I'm currently going deeper into:
+## Tech Stack & Tools
 
-- Data Structures & Algorithms
-- Computer Science fundamentals
-- Backend architecture
-- API design
-- Database design
-- Testing
-- Authentication & security
-- System design
-- Debugging and problem solving
+> Keep this section updated as you gain experience. Remove any tool you haven't used yet.
 
-«I don't want to just know how to use a technology.
-I want to understand what's happening underneath it.»
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-Featured Project
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-StudentPal
+## GitHub Achievements 🏆
 
-A student-focused platform designed around real student workflows in the Faculty of Computing at AAUA.
+Some achievements I've unlocked include **Quickdraw**, **YOLO**, and **Pull Shark**.
 
-The goal is simple: understand the problems students face and build software that makes those workflows easier.
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-Stack
+## GitHub Stats 📊
 
-"Django" · "Django REST Framework" · "PostgreSQL" · "Netlify" · "Render"
-
----
-
-How I Build
-
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Test
-   ↓
-Debug
-   ↓
-Deploy
-   ↓
-Feedback
-   ↓
-Improve
-
-For me, software engineering isn't just about getting something to work.
-
-It's about understanding why it works, how it can fail, and how it can be improved.
-
----
-
-Engineering Principles
-
-- Understand before copying.
-- Read the documentation.
-- Keep solutions simple.
-- Treat errors as information.
-- Fix root causes, not symptoms.
-- Write code other people can understand.
-- Build for real users.
-- Learn from every project.
-- Keep improving.
-
----
-
-GitHub
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rockytiM-5205&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" /><img src="https://streak-stats.demolab.com?user=rockytiM-5205&hide_border=true&theme=transparent" height="170" /></div><br><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rockytiM-5205&theme=github-compact&hide_border=true&area=true" width="95%" /></div>---
-
-Current Direction
-
-I'm working toward becoming the kind of engineer who can open an unfamiliar codebase and say:
-
-«"Give me some time. I'll figure it out."»
-
-Not because I know everything.
-
-Because I know how to learn, reason, debug, and build.
-
----
-
-<div align="center">Build. Learn. Ship. Repeat.
-
-<br>ALIEN_R
-
-<i>Software Engineer in progress.</i>
-
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true" alt="GitHub statistics" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Most-used languages" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Let's Connect 🤝
+
+I'm happy to connect with fellow developers, students, and people building interesting things.
+
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- LinkedIn: Add your LinkedIn profile link here
+- Email: Add a public contact email here if you'd like to share one
+
+---
+
+*Keep building. Keep learning. Keep shipping. 🚀*

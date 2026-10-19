@@ -56,7 +56,7 @@ Exploring how to build practical backend systems, including secure APIs, user pe
 
 Some achievements I've unlocked include **Quickdraw**, **YOLO**, and **Pull Shark**.
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rockytiM-5205&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats 📊
 

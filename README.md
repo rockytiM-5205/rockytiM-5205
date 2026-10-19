@@ -1,7 +1,7 @@
 # Hi there, I'm a Software Developer 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rockytiM-5205=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## Software Developer | Product Builder 🚀

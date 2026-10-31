@@ -1,15 +1,23 @@
-<div align="center">PETER OLUWATIMILEHIN AGBAJE
+<div align="center">
 
-Software Developer · Backend Engineer · Product Builder
+# PETER OLUWATIMILEHIN AGBAJE
+
+### Software Developer | Backend Engineer | Product Builder
 
 Building useful software. Solving real problems. Turning ideas into products.
 
-""GitHub" (https://img.shields.io/badge/GitHub-rockytiM--5205-181717?style=flat-square&logo=github)" (https://github.com/rockytiM-5205)
-""Portfolio" (https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=googlechrome&logoColor=white)" (https://alienrocky.pythonanywhere.com)
+<a href="https://github.com/rockytiM-5205">
+  <img src="https://img.shields.io/badge/GitHub-rockytiM--5205-181717?style=flat-square&logo=github" alt="GitHub Profile">
+</a>
+<a href="https://alienrocky.pythonanywhere.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
-</div>---
+</div>
 
-About Me
+---
+
+## About Me
 
 I'm a software developer from Nigeria passionate about turning real-world problems into practical digital products.
 

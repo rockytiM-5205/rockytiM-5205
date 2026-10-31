@@ -154,7 +154,7 @@ Let's Connect
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>Email: YOUR_PUBLIC_EMAIL
+</p>Email: alienrocky5205@gmail.com
 
 ---
 

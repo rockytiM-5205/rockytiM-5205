@@ -9,7 +9,7 @@ Building useful software. Solving real problems. Turning ideas into products.
 <a href="https://github.com/rockytiM-5205">
   <img src="https://img.shields.io/badge/GitHub-rockytiM--5205-181717?style=flat-square&logo=github" alt="GitHub Profile">
 </a>
-<a href="https://alienrocky.pythonanywhere.com">
+<a href="https://alienrocky.vercel.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
@@ -148,7 +148,7 @@ Let's Connect
   <a href="https://github.com/rockytiM-5205">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://alienrocky.pythonanywhere.com">
+  <a href="https://alienrocky.vercel.com">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
